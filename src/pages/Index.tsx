@@ -29,7 +29,7 @@ const initialQuestionTypes: QuestionType[] = [
   },
   {
     id: 3,
-    name: "Vocabulary Test",
+    name: "ditme thang wibu",
     template: "Default",
     team: "Language",
     title: "Word Definitions",
