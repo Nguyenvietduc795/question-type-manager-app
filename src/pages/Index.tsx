@@ -13,7 +13,7 @@ import DeleteConfirmation from "@/components/DeleteConfirmation";
 const initialQuestionTypes: QuestionType[] = [
   {
     id: 1,
-    name: "General Knowledge",
+    name: "khiêm",
     template: "Default",
     team: "Science",
     title: "Basic Facts",
@@ -21,7 +21,7 @@ const initialQuestionTypes: QuestionType[] = [
   },
   {
     id: 2,
-    name: "Mathematical Reasoning",
+    name: "Thiện",
     template: "Rule",
     team: "Math",
     title: "Advanced Problem Solving",
