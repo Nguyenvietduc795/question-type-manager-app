@@ -21,7 +21,7 @@ const initialQuestionTypes: QuestionType[] = [
   },
   {
     id: 2,
-    name: "Thiện",
+    name: "Thiện gà",
     template: "Rule",
     team: "Math",
     title: "Advanced Problem Solving",
